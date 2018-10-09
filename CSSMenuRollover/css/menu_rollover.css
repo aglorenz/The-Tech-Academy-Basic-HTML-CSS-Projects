@@ -56,8 +56,8 @@ body {
     padding: 0;
     left: 0;
     position: absolute;
-    top: 43px;
-    width: 127.5px;
+    top: 43px; /* changed from 43.5px to prevent submenu vanishing */
+    width: 127.5px; /* change from 125.5px to align with parent menu */
     opacity: 0;
     /* While not being hovered, drop down-menu hides
        This also avoids a block-level bug */
