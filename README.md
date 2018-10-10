@@ -1,5 +1,8 @@
 ## Small CSS HTML Projects
 
+### Animate Photo Gallery 10/9/2018
+This exercise creates a text overlay on a photo.  The overlay is initially invisible.  Upon mouse hover, the text becomes visible and the photo beneath it becomes slightly zoomed from its center. The text transition is almost immediate and the photo transition is a half second.  With this exercise, I gained more experience using the developer version of Firefox and was able to view real-time results when changing various CSS properties including animations.  Fun!
+
 ### CSS Menu Rollover 10/8/2018
 This exercise uses CSS/HTML (no JavaScript) to create a 4 element horizontal menu with a single drop down menu.  I made a slight modification to the positioning of the submenu (different from the course code) so that the submenu would not disappear when slowly moving the mouse down from the parent menu element (Portfolio) into the submenu.
 
