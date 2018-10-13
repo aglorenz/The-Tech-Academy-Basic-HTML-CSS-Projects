@@ -1,5 +1,8 @@
 ## Small CSS HTML Projects
 
+### Responsive Login Form 10/13/2018
+This exercise demonstrates the use of a login form (using login_style.css).  In the second part of the exercise (login_style2.css), @media rule in media queries to style the sheet differently depending on different media types (i.e., screen width of different devices) being used.
+
 ### Animate Photo Gallery 10/9/2018
 This exercise creates a text overlay on a photo.  The overlay is initially invisible.  Upon mouse hover, the text becomes visible and the photo beneath it becomes slightly zoomed from its center. The text transition is almost immediate and the photo transition is a half second.  With this exercise, I gained more experience using the developer version of Firefox and was able to view real-time results when changing various CSS properties including animations.  Fun!
 
